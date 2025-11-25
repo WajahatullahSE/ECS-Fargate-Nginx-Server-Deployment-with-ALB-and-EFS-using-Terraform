@@ -9,9 +9,9 @@ The workflow:
 4. EFS provides persistent storage for the application.
 
 ## Architecture Diagram
-```markdown
-![Architecture Diagram](./doc/ecs-alb-nginx-tr-1.png)
-```
+
+![Architecture Diagram](./docs/ecs-alb-nginx-tr-1.png)
+
 ---
 
 ## Prerequisites
